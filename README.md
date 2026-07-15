@@ -83,6 +83,9 @@ Everything changed when I discovered C. Understanding how it operates close to t
 src="https://img.shields.io/twitter/follow/@eryxkleos2?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><br>
 
-### Badges
+---
 
-<a href="https://github.com/erisn21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erisn21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+### Stats
+
+<a href="https://github.com/erisn21" align="left">
+<img src="https://githubcard.com/erisn21.svg?d=CcSsbIxfVSrm" alt="Stats" /></a>
