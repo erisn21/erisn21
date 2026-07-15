@@ -1,8 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Érison Cleyton
-=======================================================================================================================================
-
-Low-Level Programmer | Hardware Enthusiast | AI Explorer
---------------------------------------------------------
+![](banner.png)
+---
 
 My passion for programming started 9 years ago, heavily inspired by the show Mr. Robot. I began writing scripts in Lua to develop mobile game cheats. A year later, I picked up C# to build basic games using the Unity engine.
 
@@ -11,7 +8,7 @@ Five months after that, I moved to Python, transitioning from Python 2 to 3. Dur
 Everything changed when I discovered C. Understanding how it operates close to the hardware fascinated me instantly. It became my primary language, and it remains the core of everything I build today.
 
 * 🌍  I'm based in Brazil
-* ✉️  You can contact me at [notyelcnosire@gmail.com](mailto:notyelcnosire@gmail.com)
+* ✉️  You can contact me at [notyelcnosire@gmail.com](mailto:csfirmino2005@yahoo.com)
 * 🧠  I'm currently learning Rust 🦀
 * 👥  I'm looking to collaborate on Low-level development projects, C/Assembly tools, hardware-software integration, and experimental AI applications.
 * 💬  Ask me about When I'm not coding in C or Assembly, you can find me training small AI models just for fun and curiosity.
